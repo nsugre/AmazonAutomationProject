@@ -37,5 +37,4 @@ public class SuiteListener implements ITestListener, IAnnotationTransformer {
 		annotation.setRetryAnalyzer(RetryAnalyser.class);
 	}
 	
-
 }
